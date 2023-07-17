@@ -1,0 +1,16 @@
+{
+  "name": "eleventy-dependency-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "DEBUG=*Eleventy* npx @11ty/eleventy --watch"
+  },
+  "keywords": [],
+  "author": "Lukas Mestel",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "sass": "^1.63.6"
+  }
+}
