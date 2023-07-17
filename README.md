@@ -1,8 +1,8 @@
 # Eleventy sass example doesn't work
 
-The elventy sass example doesn't update the resulting css if a dependency changed.
+The [elventy sass example](https://www.11ty.dev/docs/languages/custom/#example-add-sass-support-to-eleventy) doesn't update the resulting css if a dependency changed.
 
-https://www.11ty.dev/docs/languages/custom/#example-add-sass-support-to-eleventy
+https://github.com/11ty/eleventy/issues/2999
 
 ## Steps to reproduce
 
